@@ -28,6 +28,5 @@ Copy and use it wherever needed.
 📌 Requirements
 Python 3+
 No additional libraries required (uses built-in random and string modules)
-📷 Screenshot
-(Replace with an actual screenshot if available)
+
 
